@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    font-family: var(--font-family);
+}
+
+img {
+    max-width: 100%;
+}
+
+wrapper {
+    height: 100;
+}
+
+container {
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+logo {
+    width: 100px;
+    flex-box :(justify-content)
+}
+
